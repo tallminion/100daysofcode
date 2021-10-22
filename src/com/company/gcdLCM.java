@@ -1,5 +1,5 @@
 package com.company;
-
+//https://nados.pepcoding.com/content/0/2d16b228-f714-425c-a639-66e75ff8c958/
 import java.util.Scanner;
 
 public class gcdLCM {
