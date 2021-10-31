@@ -1,5 +1,5 @@
 package com.company;
-
+//https://nados.pepcoding.com/content/0/86270318-8803-487a-b5e5-1d05a45d0113/
 import java.util.Scanner;
 
 public class pattern4 {
