@@ -1,5 +1,5 @@
 package com.company;
-
+//https://nados.pepcoding.com/content/0/8ed5e886-1ee3-48af-8ec4-580c2fe09da4/
 import java.util.Scanner;
 
 public class Re5_powerLog {
